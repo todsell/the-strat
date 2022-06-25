@@ -229,7 +229,7 @@ Before beginning you have to have a basic understanding of candlesticks.  Candle
 * @yogajen70		
 * @toddjostendorf 		
 * @ElaineBenes99 
-* @golfingmedic - https://twitter.com/golfingmedic?s=20&t=MFucjcEvPpcQOKvN4luWDw
+* @golfingmedic - https://twitter.com/golfingmedic
 
 
 ## Links 
