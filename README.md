@@ -229,6 +229,8 @@ Before beginning you have to have a basic understanding of candlesticks.  Candle
 * @yogajen70		
 * @toddjostendorf 		
 * @ElaineBenes99 
+* @golfingmedic
+
 
 ## Links 
 
