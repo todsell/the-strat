@@ -213,7 +213,7 @@ Before beginning you have to have a basic understanding of candlesticks.  Candle
 * @LevJampolsky
 * @AlexsOptions 	
 * @TradeSniperSara
-* @CyberDog2		
+* @CyberDog2 - https://twitter.com/CyberDog2
 * @jam_trades  		
 * @_JamesBradley__		
 * @japor3		
