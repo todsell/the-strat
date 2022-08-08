@@ -232,6 +232,9 @@ Before beginning you have to have a basic understanding of candlesticks.  Candle
 * @golfingmedic - https://twitter.com/golfingmedic
 * @pelonsax - https://twitter.com/pelonsax
 * @FXBunnywood - https://twitter.com/FXBunnywood
+* @RickyZane85 - https://twitter.com/RickyZane85
+* @Stratinator - https://twitter.com/Stratinator
+* @T3metrics - https://twitter.com/T3metrics
 
 
 ## Links 
